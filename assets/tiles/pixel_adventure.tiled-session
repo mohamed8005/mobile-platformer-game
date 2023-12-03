@@ -1,0 +1,103 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-03.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/Pixel adventure.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-01.tmx": {
+            "expandedObjectLayers": [
+                4,
+                2
+            ],
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 231.33333333333331,
+                "y": 173.66666666666666
+            }
+        },
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-02.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1055.5,
+                "y": 184.5
+            }
+        },
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-03.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 1.972734375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 282.8561245099204,
+                "y": 184.26200942536934
+            }
+        },
+        "Pixel adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level-01.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 316,
+                "y": 115.25
+            }
+        },
+        "level-02.tmx": {
+            "expandedObjectLayers": [
+                3,
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 588,
+                "y": 507.3333333333333
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/moham/OneDrive/Desktop/platformer_game/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 58,
+    "openFiles": [
+        "Pixel adventure.tsx",
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-01.tmx",
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-02.tmx",
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-03.tmx",
+        "level-01.tmx"
+    ],
+    "project": "pixel_adventure.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-01.tmx",
+        "level-01.tmx",
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-02.tmx",
+        "C:/Users/moham/OneDrive/Desktop/platform_jumper/assets/tiles/level-03.tmx",
+        "Pixel adventure.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
